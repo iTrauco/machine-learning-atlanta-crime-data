@@ -1,0 +1,36 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+
+# Python bytecode
+__pycache__/
+
+# Logs
+*.log
+
+# IDE or editor files
+.vscode/
+.idea/
+
+# Compiled Python files
+*.pyc
+
+# Compiled files (if you're using a compiled language)
+*.o
+*.out
+*.exe
+
+# Data files (if you're storing data locally and don't want to commit it)
+#data/
+
+# Python package directories
+*.egg-info/
+dist/
+build/
+
+# Miscellaneous
+.DS_Store
+
